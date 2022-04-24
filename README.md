@@ -10,12 +10,12 @@ if (condition)
 int main ()
 {
          int age:;
-         printf("enter the age \n");
-         scanf("%d", &age);
+         printf ("Enter the age \n");
+         scanf ("%d", &age);
          if (age>=18) {
                 printf("Eligible \n");
          }
-printf(" Not eligible \n");
+printf (" Not eligible \n");
 
 return 0;
 
