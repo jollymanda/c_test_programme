@@ -1,1 +1,22 @@
-# c_test_programme
+/*
+Syntax 1:
+if (condition)
+        statement;
+Syntax 2;
+if (condition)
+        statement;
+*/
+#include <stdio.h>
+int main ()
+{
+         int age:;
+         printf("enter the age \n");
+         scanf("%d", &age);
+         if (age>=18) {
+                printf("Eligible \n");
+         }
+printf(" Not eligible \n");
+
+return 0;
+
+}
